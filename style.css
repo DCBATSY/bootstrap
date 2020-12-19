@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.price-head{
+    text-align: center;
+    
+}
+.price{
+    list-style-type: none;
+    text-decoration: none;
+}
+.h2, h2{
+    font-size: 2rem;
+    background-color: aquamarine;
+}
+dl, ol, ul {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    list-style-type: none;
+}
+.button{
+    text-align: center;
+}
+.month{
+    background-color: yellow;
+    font-size: 26px;
+    font-weight: bold;
+
+}    
+p {
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+.year{
+    background-color: green;
+    font-size: 26px;
+    font-weight: bold;
+}
+.low{
+    text-align: center;
+}
